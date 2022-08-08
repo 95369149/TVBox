@@ -56,7 +56,7 @@
 	}
 }],
   "plugin": "https://gitea.com/95369149/TVBox/raw/branch/main/top95.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vOTUzNjkxNDkvVFZCb3gvcmF3L2JyYW5jaC9tYWluL3R2L2p1bnl1LnR4dA=="]}]}],
 
   "sites":[
     {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
