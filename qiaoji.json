@@ -241,6 +241,14 @@
 		"quickSearch": 1,
 		"filterable": 1
 	}, {
+		"key":"csp_xpath_88kanqiu",
+		"name":"88看球⚽",
+		"type":3,"api":"csp_XPath",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":0,
+		"ext":""
+	}, {
 		"key": "csp_xpath_huya",
 		"name": "🐯虎牙(XP)",
 		"type": 3,
