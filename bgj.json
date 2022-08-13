@@ -1,6 +1,6 @@
 {
 	"spider": "https://gitea.com/95369149/TVBox/raw/branch/main/qiaoji0808.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6",
-	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	"wallpaper": "https://gitea.com/95369149/TVBox/raw/branch/main/images",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
@@ -58,15 +58,6 @@
 	"searchable": 1,
 	"ext": ""
 }, {
-		"key": "293视频",
-		"name": "🐞293视频",
-		"type": 3,
-		"api": "csp_SP293",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": ""
-	}, {
 		"key": "Smdyy_spider",
 		"name": "🐞神马影视",
 		"api": "csp_Smdyy",
