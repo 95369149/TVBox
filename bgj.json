@@ -196,8 +196,8 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "d3d3336950a546e98097be9399f14fd6",
-        "jar": "https://gitea.com/95369149/TVBox/raw/branch/main/top95.jar"  
+		"ext": "d3d3336950a546e98097be9399f14fd6"
+	     
 	}, {
 		"key": "Gitcafe",
 		"name": "🐞小纸条",
@@ -206,8 +206,8 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "d3d3336950a546e98097be9399f14fd6",
-        "jar": "https://gitea.com/95369149/TVBox/raw/branch/main/top95.jar"
+		"ext": "d3d3336950a546e98097be9399f14fd6"
+        
 	}, {
 		"key": "FindZY",
 		"name": "🐞找资源",
