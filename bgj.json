@@ -197,7 +197,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "d3d3336950a546e98097be9399f14fd6",
-        "jar": "https://gitea.com/95369149/TVBox/raw/branch/main/tangsan.jar"  
+        "jar": "https://gitea.com/95369149/TVBox/raw/branch/main/top95.jar"  
 	}, {
 		"key": "Gitcafe",
 		"name": "🐞小纸条",
@@ -207,7 +207,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "d3d3336950a546e98097be9399f14fd6",
-        "jar": "https://gitea.com/95369149/TVBox/raw/branch/main/tangsan.jar"
+        "jar": "https://gitea.com/95369149/TVBox/raw/branch/main/top95.jar"
 	}, {
 		"key": "FindZY",
 		"name": "🐞找资源",
@@ -226,7 +226,7 @@
 		"quickSearch": 0,
 		"filterable": 0,
 		"ext": "d3d3336950a546e98097be9399f14fd6",
-        "jar": "https://gitea.com/95369149/TVBox/raw/branch/main/tangsan.jar"
+        "jar": "https://gitea.com/95369149/TVBox/raw/branch/main/top95.jar"
 	      
 	}, {
 		"key": "酷猫",
