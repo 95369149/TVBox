@@ -84,7 +84,7 @@
 }],
 
 	"spider": "https://gitea.com/95369149/TVBox/raw/branch/main/qiaoji0808.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6",
-	"wallpaper": "https://gitea.com/95369149/TVBox/raw/branch/main/images/w6.png",
+	"wallpaper": "https://gitea.com/95369149/TVBox/raw/branch/main/images/w10.png",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
