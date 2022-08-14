@@ -58,7 +58,7 @@
     "name":"阿里云盘",
     "server":"http:127.0.0.1:8080/",
  "password":"d3d3336950a546e98097be9399f14fd6",
-    "type":"alidrive"},
+    "type":"alidrive"}
  ],
 // 热搜关键字
 "hotSearch": [],
