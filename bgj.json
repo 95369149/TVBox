@@ -55,13 +55,9 @@
 }],
 "drives": [
     {
-    "name":"youte",
-    "plugin":"alist",
-    "userName":"",
-    "password":"",
-    "server":"https://alist.youte.ml/"
-    "type":"plugin"
-    },
+    "name":"阿里云盘",
+    "password":"d3d3336950a546e98097be9399f14fd6"
+    }
  ],
 // 热搜关键字
 "hotSearch": [],
