@@ -39,7 +39,6 @@
     "request": {
     	"method": "GET",
     	"url": {
-    		"raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
     	}
     },
     "response": {
@@ -77,7 +76,7 @@
 	}
 }],
 
-	"spider": "https://agit.ai/fangzimo/TVBox/raw/branch/main/bgj2.jar;md5;9e7037fda2efb99787973b5ce8b72c42",
+	"spider": "https://agit.ai/fangzimo/TVBox/raw/branch/main/top96.jar;md5;b63e45664754f6ef2536428b857901c6",
 	"wallpaper": "https://agit.ai/fangzimo/TVBox/raw/branch/main/images/w10.png?blur=40",
 	"lives": [{
 		"group": "redirect",
